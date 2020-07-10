@@ -1,0 +1,10 @@
+C:\Users\Office-Mitko\source\repos\playgroundv6\playgroundv6\obj\Debug\playgroundv6.csprojAssemblyReference.cache
+C:\Users\Office-Mitko\source\repos\playgroundv6\playgroundv6\bin\Debug\playgroundv6.exe.config
+C:\Users\Office-Mitko\source\repos\playgroundv6\playgroundv6\bin\Debug\playgroundv6.exe
+C:\Users\Office-Mitko\source\repos\playgroundv6\playgroundv6\bin\Debug\playgroundv6.pdb
+C:\Users\Office-Mitko\source\repos\playgroundv6\playgroundv6\bin\Debug\Flurl.xml
+C:\Users\Office-Mitko\source\repos\playgroundv6\playgroundv6\bin\Debug\Flurl.Http.xml
+C:\Users\Office-Mitko\source\repos\playgroundv6\playgroundv6\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Office-Mitko\source\repos\playgroundv6\playgroundv6\obj\Debug\playgroundv6.csproj.CopyComplete
+C:\Users\Office-Mitko\source\repos\playgroundv6\playgroundv6\obj\Debug\playgroundv6.exe
+C:\Users\Office-Mitko\source\repos\playgroundv6\playgroundv6\obj\Debug\playgroundv6.pdb

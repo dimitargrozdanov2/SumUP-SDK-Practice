@@ -1,0 +1,8 @@
+10.7.2020 г. 11:31:00
+
+One or more errors occurred.
+
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at playgroundv6.Program.Main(String[] args) in C:\Users\Office-Mitko\source\repos\playgroundv6\playgroundv6\Program.cs:line 34
